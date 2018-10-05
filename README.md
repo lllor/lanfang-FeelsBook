@@ -1,6 +1,6 @@
 # FeelingBook
-The FeelingBOOK
-</CITATION>
+The UML image is in /doc
+	
 	1. name: Joshua Charles Campbell
 	   title：lonelyTwitter
 	   link: https://github.com/joshua2ua/lonelyTwitter
