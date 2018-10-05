@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">lanfang1-FeelsBook</string>
+    <string name="Count">Count</string>
+    <string name="History">History</string>
+    <string name="Save">Record Your Emotion</string>
+    <string name="Return">Return</string>
+    <string name="title_activity_select_emotion">SelectEmotion</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="love">love</string>
+    <string name="joy">joy</string>
+    <string name="surprise">surprise</string>
+    <string name="anger">anger</string>
+    <string name="sadness">sadness</string>
+    <string name="fear">fear</string>
+    <string name="input">ENTER YOUR COMMENT</string>
+    <string name="DATE">Enter the Date</string>
+    <string name="more">MORE</string>
+    <string name="Day">DD</string>
+    <string name="Month">MM</string>
+    <string name="Year">YYYY</string>
+    <string name="Hour">hh</string>
+    <string name="Minute">mm</string>
+    <string name="Second">ss</string>
+    <string name="Mention">For Month/Day/Hour/Minute/Second, please enter two integer. For example: 01.</string>
+    <string name="Change">Enter your comment</string>
+</resources>
